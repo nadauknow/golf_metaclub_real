@@ -1,6 +1,6 @@
 {
   "homepage": "http://nadauknow.github.io/",
-  "name": "open-react-template",
+  "name": "Golf MetaClub",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -50,3 +50,4 @@
     "gh-pages": "^2.2.0"
   }
 }
+
