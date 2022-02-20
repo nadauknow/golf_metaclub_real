@@ -1,6 +1,6 @@
 {
-  "homepage": "http://nadauknow.github.io/golf_metaclub_real",
-  "name": "golf-metaclub",
+  "homepage": "http://nadauknow.github.io/golf_metaclub_site",
+  "name": "golf_metaclub_site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +19,6 @@
     "web3": "^1.7.0",
     "web3-eth-contract": "^1.7.0"
   },
-
   "scripts": {
     "pre-deploy": "npm run build",
     "deploy": "gh-pages -d build",
