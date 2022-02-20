@@ -1,5 +1,5 @@
 {
-  "homepage": "http://nadauknow.github.io/",
+  "homepage": "http://nadauknow.github.io/golf_metaclub_real",
   "name": "golf-metaclub",
   "version": "0.1.0",
   "private": true,
@@ -50,4 +50,3 @@
     "gh-pages": "^2.2.0"
   }
 }
-
