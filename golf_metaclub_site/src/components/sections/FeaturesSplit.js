@@ -55,7 +55,7 @@ class FeaturesSplit extends React.Component {
 
     const sectionHeader = {
       title: 'The First Digital Golf Club',
-      paragraph: 'You don’t need to have connections, show up to interviews, or have $10,000s to join this golf club. You only need to love golf and the community.'
+      paragraph: 'You don’t need connections, interviews, or have $10,000s to join. You only need to love golf and the community.'
     };
     
 

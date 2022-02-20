@@ -74,7 +74,7 @@ class HeroFull extends React.Component {
               </h1>
               <div className="container-xs">
                 <p className="m-0 mb-32 reveal-from-bottom">
-                  Golf MetaClub is a supportive community of golf and NFT enthusiasts who come together to make golf open and accessible to everyone. 
+                  Golf MetaClub is a supportive community of golf and NFT enthusiasts coming together to make golf accessible to everyone. 
                 </p>
                 <div className="reveal-from-bottom">
                 </div>

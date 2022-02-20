@@ -22,7 +22,7 @@ class ScrollReveal extends React.Component {
     for (let i = 0; i < this.state.revealEl.length; i++) {
       let el = this.state.revealEl[i];
       let revealDelay = el.getAttribute('data-reveal-delay');
-      let revealOffset = (el.getAttribute('data-reveal-offset') ? el.getAttribute('data-reveal-offset') : '200');
+      let revealOffset = (el.getAttribute('data-reveal-offset') ? el.getAttribute('data-reveal-offset') : '0');
       let listenedEl = (el.getAttribute('data-reveal-container') ? el.closest(el.getAttribute('data-reveal-container')) : el);
       if (this.elementIsVisible(listenedEl, revealOffset) && !el.classList.contains('is-revealed')) {
         if (revealDelay && revealDelay !== 0) {
